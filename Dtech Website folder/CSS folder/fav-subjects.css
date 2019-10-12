@@ -1,0 +1,167 @@
+/********main styles**********/
+.subjects {
+    margin-top: 15px;
+    background-color: gold;
+    width: 50%;
+    float: left;
+}
+.academic h1 {
+    padding-top: 5px;
+    text-align: center;
+    margin: 0;
+}
+
+.academic {
+    width: 40%;
+    height: 50px;
+    background-color: white;
+    margin:auto;
+    border: 3px red solid;
+}
+
+.maths {
+    margin: 0;
+    width: 40%;
+    height: 50px;
+    color: white;
+    background-color: black;
+    border-right: 3px red solid;
+    border-left: 3px red solid;
+    margin-right: 5px;
+}
+
+.maths h1 {
+    text-align: center;
+}
+
+
+
+.maths-box {
+    width: 80%;
+    height: 60px;
+    background-color: white;
+    border-right: 3px red solid;
+    border-left: 3px red solid;
+}
+
+.science {
+    margin: 0;
+    width: 40%;
+    height: 50px;
+    color: white;
+    background-color: black;
+    border-right: 3px red solid;
+    border-left: 3px red solid;
+    margin-right: 5px;
+}
+
+.science h1 {
+    text-align: center;
+}
+
+.science-box {
+    width: 80%;
+    height: 60px;
+    background-color: white;
+    border-right: 3px red solid;
+    border-left: 3px red solid;
+}
+
+.social {
+    margin: 0;
+    width: 40%;
+    height: 50px;
+    color: white;
+    background-color: black;
+    border-right: 3px red solid;
+    border-left: 3px red solid;
+    margin-right: 5px;
+}
+
+.social h1 {
+    text-align: center;
+}
+
+.social-box {
+    width: 80%;
+    height: 60px;
+    background-color: white;
+    border-right: 3px red solid;
+    border-left: 3px red solid;
+}
+
+.dtech {
+    margin: 0;
+    width: 40%;
+    height: 50px;
+    color: white;
+    background-color: black;
+    border-right: 3px red solid;
+    border-left: 3px red solid;
+    margin-right: 5px;
+}
+
+.dtech h1 {
+    text-align: center;
+}
+
+.dtech-box {
+    width: 80%;
+    height: 70px;
+    background-color: white;
+    border-right: 3px red solid;
+    border-left: 3px red solid;
+}
+
+.pe {
+    margin: 0;
+    width: 40%;
+    height: 50px;
+    color: white;
+    background-color: black;
+    border-right: 3px red solid;
+    border-left: 3px red solid;
+    margin-right: 5px;
+}
+
+.pe h1 {
+    text-align: center;
+}
+
+.pe-box {
+    width: 80%;
+    height: 70px;
+    background-color: white;
+    border-right: 3px red solid;
+    border-left: 3px red solid;
+}
+
+.fav-img {
+    margin-top: 15px;
+    width: 45%;
+    float: right;
+    text-align: center;
+}
+
+.Mimg {
+    padding-top: 15px;
+    height: 120px
+}
+
+.Simg {
+    height:120px;
+}
+
+.SSimg {
+    height:120px;
+}
+
+.Dtimg {
+    height: 120px
+}
+
+.Pimg {
+    height: 120px
+}
+
+/***********footer styles**************/

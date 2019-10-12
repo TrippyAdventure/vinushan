@@ -1,0 +1,122 @@
+/************main styles****************/
+
+body {
+    background: #2E4053;
+}
+header {
+    background-color:#26d0c9; 
+    height: 70px;
+}
+
+nav {
+    background-color:azure;
+    height: 50px;
+    width: 100%;
+    border-right: 5px yellow solid;
+    border-left: 5px yellow solid;
+}
+h2 {
+    float:left;
+    padding: 30px 10px;
+    padding-left: 8px;
+    padding-top: 4px;
+    color: white;
+}
+header h1 {
+    float: right;
+    padding: 1px 10px;
+    padding-right: 8px;
+    color: white;
+}
+header img {
+    float: left;
+    height: 60px;
+    padding-top: 5px;
+    padding-left: 8px;
+}
+span {
+    color: yellow;
+}
+main {
+    background-color:#85C1E9;
+    height: 590px;
+    width: 100%;
+    border: 5px yellow solid;
+}
+main h1{
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+}
+
+.main-intro p {
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+/*********a tag styles************/
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+a:hover {
+    color: red;
+}
+
+a:active {
+    color: green;
+}
+
+a:visited {
+    color: mediumslateblue;
+}
+
+/********nav styles**********/
+
+.nav-list li {
+    list-style: none;
+}
+.nav-list li {
+    float: left;
+    font-size: 24px;
+    padding-top: 14px;
+    padding-left: 50px;
+}
+.welcome p {
+    text-align: center;
+}
+
+/***********footer styles**********/
+footer {
+    background-color: #26d0c9;
+    height: 280px;
+    padding-top: 8px;
+    padding-left: 10px;
+    color: white;
+}
+
+/********bar styles***********/
+.bar-title h1 {
+    text-align: center;
+    padding-top: 10px;
+}
+
+/********footer styles*****/
+.ig img {
+    width: 30px;
+    height: 25px;
+    float:left;
+    padding-right: 10px;
+}
+
+.footer-p {
+    font-family: sans-serif;
+}
+.footer-li {
+    float: right;
+    padding-right: 50px;
+}
+.ig p {
+    padding-top: 4px;
+}
